@@ -1,0 +1,14 @@
+.icon::before{
+	height: 65px;
+    width: 65px;
+    display: inline-block;
+	background-size: cover;
+	margin: 20px 0 0 0;
+	content: ' ';
+}
+
+
+.icon.home::before{
+	background-image: url('../img/icon/house-heart-fill — копия.svg');
+}
+
